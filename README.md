@@ -20,4 +20,4 @@ KmeansClusttering on 4 dataset you need to define number of clusters
 AutoKSpectralClustering on 4 datasets you don't need to define exactly how many number of clusters, algorithm will help you define it.
 ![AutoKSpectraOn4Datasets](https://user-images.githubusercontent.com/105123355/210206031-b1f1c5f7-c56b-43aa-a6ef-643885fc06b6.png)
 Compare time and efficiency all algorithm above
-![Compare](https://user-images.githubusercontent.com/105123355/210204898-9390bbbe-4088-4161-bb7c-1ae93696de9b.png)
+![Compare](https://user-images.githubusercontent.com/105123355/210206199-ce883480-6f8b-4f0c-998e-a1149b87806e.png)
