@@ -16,10 +16,16 @@ Or run on google colab
 
 
 # Kmeans animation example
-![KmeansExample](https://user-images.githubusercontent.com/105123355/210204993-dcaff911-e91f-4fbb-96b1-e5abfcc9eb8b.png)
+![KmeansStep](https://user-images.githubusercontent.com/105123355/210206754-76d5eb80-66f6-42cf-94a8-6df0b597ca82.gif)
+
+
 # KmeansClusttering on 4 dataset you need to define number of clusters
 ![KmeansOn4Datasets](https://user-images.githubusercontent.com/105123355/210205911-40181792-7329-4587-bba7-825e2bdcdc46.png)
+
+
 # AutoKSpectralClustering on 4 datasets you don't need to define exactly how many number of clusters, algorithm will help you define it.
 ![AutoKSpectraOn4Datasets](https://user-images.githubusercontent.com/105123355/210206031-b1f1c5f7-c56b-43aa-a6ef-643885fc06b6.png)
+
+
 # Compare time and efficiency all algorithm above
 ![Compare](https://user-images.githubusercontent.com/105123355/210206199-ce883480-6f8b-4f0c-998e-a1149b87806e.png)
