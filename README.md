@@ -1,7 +1,7 @@
 # ***Spectral Clustering***
 ----
 
-This repo about spectral clustering includes: pptx, pdf file - explain and example about spectral clustering, demo code (2 Kmeans (scikit-learn, implementation from scratch),3 spectral clustering (scikit-learn, MySpectralClustering, AutoKSpectralClustering)) and figures to use in pptx and pdf was generated from code above.
+This repo about spectral clustering includes: pptx, pdf file - explain and example about spectral clustering, demo code (2 Kmeans , 3 spectral clustering (scikit-learn, MySpectralClustering, AutoKSpectralClustering)) and figures to use in pptx and pdf was generated from code above.
 
 ----  
 # Requirement
