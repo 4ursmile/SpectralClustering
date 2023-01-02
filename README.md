@@ -11,7 +11,7 @@ to install requirement library use command line:
 pip install -r requirements.txt
 ```
 Or run on google colab
----
+-----
 # Example
 
 
